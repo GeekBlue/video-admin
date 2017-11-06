@@ -3,7 +3,7 @@ module.exports = {
 	database:{
 		DATABASE: 'vuesql',
 	    USER: 'root',
-	    PASSWORD: '123456',
+	    PASSWORD: '',
 	    PORT: '3306',
 	    HOST: 'localhost'
 	}
